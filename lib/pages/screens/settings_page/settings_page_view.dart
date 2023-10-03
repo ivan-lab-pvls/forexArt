@@ -31,7 +31,6 @@ class _SettingsPageViewState extends State<SettingsPageView> {
                 firstText: 'Rate App',
                 secondText: 'Your opinion is important to us',
                 onTap: () {
-                  // inAppReview.openStoreListing(appStoreId: '6467123708');
                 },
               ),
               SettingsButton(
